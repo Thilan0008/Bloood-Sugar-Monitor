@@ -1,3 +1,3 @@
-# flutter_application_1
+Mobile Application Development Final Project
 
-A new Flutter project.
+
